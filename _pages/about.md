@@ -5,11 +5,11 @@ permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>+977 9846785863</p>
+    <p>+9779846785863</p>
     <p>Pokhara, Nepal</p>
 
 news: false  # includes a list of news items
@@ -31,4 +31,5 @@ Tribhuvan University, Institute of Engineering, Paschimanchal Campus
 ## Interests
 <li>Artificial Intelligence</li>
 <li>Natural Language Processing</li>
+<br/><br/> 
 
