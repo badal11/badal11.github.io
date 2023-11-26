@@ -4,7 +4,7 @@ title: Single Image Super Resolution
 description: 
 img:
 importance: 4
-category: Deep Learning
+category: Deep_Learning
 ---
 
 
