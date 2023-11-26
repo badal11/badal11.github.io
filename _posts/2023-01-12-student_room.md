@@ -3,8 +3,8 @@ layout: post
 title: Student Room
 date: 2023-07-1 09:56:00-0400
 description: Advanced Student Discussion forum made with Laravel and VueJS
-tags: Laravel VueJS
-categories: Web Development
+tags: code
+categories: Web-Apps_and_Extensions
 giscus_comments: false
 related_posts: false
 featured: false

@@ -3,8 +3,8 @@ layout: post
 title: Stock Price forecasting On Nabil Bank
 date: 2023-07-15 09:56:00-0400
 description: 
-tags: ML
-categories: machine-learning
+tags: project
+categories: Machine-learning
 giscus_comments: false
 related_posts: false
 featured: true

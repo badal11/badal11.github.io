@@ -3,8 +3,8 @@ layout: post
 title: Single Image Super Resolution
 date: 2023-07-12 09:56:00-0400
 description: 
-tags: char RNN
-categories: deep-learning
+tags: project
+categories: Deep_Learning
 giscus_comments: false
 related_posts: false
 featured: true
