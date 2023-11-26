@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://badal11.github.io/sitemap.xml
