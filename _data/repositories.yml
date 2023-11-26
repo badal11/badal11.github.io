@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - badal11
+  
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  # - badal11/IELTS_TOEFL_Spoken_Grammer_Improver
+  - badal11/Revisit-the-Words
+  - badal11/Word-Selection-Extension
+  - badal11/Musical_tune_composition
+  - badal11/StudentRoom11
+
