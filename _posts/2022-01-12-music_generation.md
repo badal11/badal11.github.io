@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Automated Musical Tune Generation using char RNN
-date: 2023-07-12 09:56:00-0400
+date: 2022-01-12 09:56:00-0400
 description: Automated composition of abc notation using char RNN that can be played by using inbuilt music library or external library
 tags: project
 categories: Deep_Learning

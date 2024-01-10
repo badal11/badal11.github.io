@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Playback Speed Adjustment skip silence or less crucial portions of videos version 1
-date: 2023-07-12 09:56:00-0400
+date: 2023-05-10 09:56:00-0400
 description: This project is designed to speed up lectures by modifying the playback speed based on sound characteristics. 
 tags: project
 categories: Deep_Learning

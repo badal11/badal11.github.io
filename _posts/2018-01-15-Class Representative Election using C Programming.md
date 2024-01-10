@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: PClass Representative Election using C Programming
+date: 2018-01-15 09:56:00-0400
+description: 
+tags: project
+categories: course_projects
+giscus_comments: false
+related_posts: false
+featured: false
+---
 # Class Representative Election using C Programming
 
     -> Establishes a versatile and reliable voting system.

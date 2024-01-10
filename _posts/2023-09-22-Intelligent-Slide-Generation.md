@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Video to Slides Converter, Transform Video Lectures into Slide Presentations
-date: 2023-07-12 09:56:00-0400
+date: 2023-09-22 09:56:00-0400
 description: This is a simple video-to-slide converter application that aims to obtain slide images (or pdf) given slide or lecture videos.
 tags: project
 categories: Deep_Learning
