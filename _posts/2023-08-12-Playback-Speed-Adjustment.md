@@ -8,7 +8,6 @@ categories: Deep_Learning
 giscus_comments: false
 related_posts: false
 featured: true
-# related_publications: einstein1950meaning, einstein1905movement
 ---
 
 
