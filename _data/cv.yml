@@ -28,17 +28,21 @@
   type: time_table
   contents:
     - title: AI Engineer
-      institution: TriCode Technology, Pokhara
+      institution: TriCode Technology, Sanepa-2, Lalitpur
       year: 2022 - 2023
       description:
-        - Spearheaded the integration of machine learning algorithms into an existing e-commerce platform, enhancing product recommendations and customer personalization.
+        - Used NLP algorithms in some projects to shorten video lectures, identify key moments of the video, and generate assisting elements of the video such as summary, and PowerPoint presentations if applicable.
+        - Worked as a full stack developer where I used Laravel and Vue JS to develop different applications.
+        - Worked closely with databases (SQL) to design optimized schemas and queries, showcasing a strong grasp of data management principles
         
-    - title: Co-founder of EdTech Startup
-      institution: Fir-Fire
-      year: 2022 - 2023
+    - title: Challenges for Nepalese primary school student
+      institution: Research Experience 
+      year: Aug. 2022 – Dec 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Conducted user research to understand the biggest pain points for primary school students in Nepal.
+        - We prepared a list of questions and did interviews with students, teachers, and their parents.
+        - We prepared a list of questions and did interviews with students, teachers, and their parents.
+        - We found that parents’ education level significantly affects grades 1–5 students, while parental participation is crucial for grades 6 – 10
 
     - title: High School Teacher
       institution: Motherland Secondary School, Pokhara
@@ -76,10 +80,10 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Natural Language Processing.
       items: 
-        - Description 1.
-        - Description 2.
+        - Adaptive Learning.
+        - Personalized Learning.
     - title: Topic 2.
       items:
         - Description 1.
