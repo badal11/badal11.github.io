@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 I am from Nepal, where I have completed my bachelor’s in computer engineering from Tribhuvan University, Institute of Engineering, Paschimanchal Campus.
 <br/><br/> 
 ## Working
-Currently, I am working at __ as an AI engineer, where I .
+Currently, I am working at TriCode Technology as an AI engineer, where I do various tasks concerning Full Stack Engineer, Machine Learning, and Deep Learning.
 <br/><br/> 
 ## Education
 Bachelor's In Computer Engineering, 2017
