@@ -21,13 +21,18 @@ social: true  # includes social icons at the bottom of the page
 I am from Nepal, where I have completed my bachelor’s in computer engineering from Tribhuvan University, Institute of Engineering, Paschimanchal Campus.
 <br/><br/> 
 ## Working
-Currently, I am working at TriCode Technology as an AI engineer, where I do various tasks concerning Full Stack Engineer, Machine Learning, and Deep Learning.
+I am currently employed at TriCode Technology as an AI engineer. In this role, I engage in diverse responsibilities related to Machine Learning and Deep Learning. 
 <br/><br/> 
 ## Education
 Bachelor's In Computer Engineering, 2017
 
 Tribhuvan University, Institute of Engineering, Paschimanchal Campus
-<br/><br/> 
+
+<br/> 
+## Research on Challenges faced by primary school students in Nepal
+In my research journey to understand the significant challenges faced by primary school students in Nepal, I've outlined a step-by-step guide for conducting user research. Similarly, these are also the steps I myself followed. 
+
+<br/> 
 ## Interests
 <li>Artificial Intelligence</li>
 <li>Natural Language Processing</li>
