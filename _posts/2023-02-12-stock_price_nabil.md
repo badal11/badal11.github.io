@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Stock Price forecasting On Nabil Bank
-date: 2023-07-15 09:56:00-0400
+title: Predictive Analysis for Nabil Bank Stock Prices 
+date: 2023-02-12 09:56:00-0400
 description: 
 tags: project
 categories: Machine-learning

@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Video to Slides Converter, Transform Video Lectures into Slide Presentations
+title: Intelligent Slide Generation from Lecture Videos 
 date: 2023-09-22 09:56:00-0400
 description: This is a simple video-to-slide converter application that aims to obtain slide images (or pdf) given slide or lecture videos.
 tags: project
-categories: Deep_Learning
+categories: Machine_learning
 giscus_comments: false
 related_posts: false
 featured: false
-# related_publications: einstein1950meaning, einstein1905movement
 ---
 
 # Video to Slides Converter: Transform Video Lectures into Slide Presentations

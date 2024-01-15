@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Playback Speed Adjustment skip silence or less crucial portions of videos
-date: 2023-07-12 09:56:00-0400
+date: 2023-08-12 09:56:00-0400
 description: The project is designed to automate the process of summarizing videos by analyzing their audio content and intelligently adjusting playback speed based on the perceived loudness. This can be particularly useful for skipping through less relevant sections, such as silent periods or segments where only background noise is present. The project is divided into several components, including audio processing, machine learning model training, video summarization, and indexing. 
 tags: project
-categories: Deep_Learning
+categories: Machine_learning
 giscus_comments: false
 related_posts: false
 featured: false
