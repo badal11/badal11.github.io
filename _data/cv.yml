@@ -17,7 +17,8 @@
       description:
         - Bachelor of Computer Engineering
         - Pokhara, Nepal
-        - Received full scholarships by ranking 261st amongst 15000 entrance students from across the country.
+        - B.E. funded by Government of Nepal
+          • Ranked 261th in the engineering entrance exam, competing with 15,000+ candidates , received full scholarship for undergraduate study.
     - title: +2 High School Science
       institution: Motherland Secondary School
       year: 2015 - 2017
@@ -31,8 +32,9 @@
       institution: TriCode Technology, Sanepa-2, Lalitpur
       year: 2022 - 2023
       description:
-        - Used NLP algorithms in some projects to shorten video lectures, identify key moments of the video, and generate assisting elements of the video such as summary, and PowerPoint presentations if applicable.
-        - Worked as a full stack developer where I used Laravel and Vue JS to develop different applications.
+        - Data preprocessing, integration of machine learning models into IoT systems for predictive analytics, anomaly detection, decision-making, and some NLP projects.
+        - I was also tasked to create a video speed controller that skips through silent parts. Used NLP algorithms in some projects to shorten video lectures, identify key moments of the video, and generate assisting elements such as summary, and PowerPoint presentations if applicable.
+        - Applied version control systems like Git to manage code repositories, facilitating collaborative software development
         - Worked closely with databases (SQL) to design optimized schemas and queries, showcasing a strong grasp of data management principles
         
     - title: Challenges for Nepalese primary school student
@@ -40,7 +42,6 @@
       year: Aug. 2022 – Dec 2022
       description:
         - Conducted user research to understand the biggest pain points for primary school students in Nepal.
-        - We prepared a list of questions and did interviews with students, teachers, and their parents.
         - We prepared a list of questions and did interviews with students, teachers, and their parents.
         - We found that parents’ education level significantly affects grades 1–5 students, while parental participation is crucial for grades 6 – 10
 
@@ -82,12 +83,13 @@
   contents:
     - title: Natural Language Processing.
       items: 
-        - Adaptive Learning.
-        - Personalized Learning.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Continual learning
+        - Natural Language Generation
+        - Question-Answering
+        - Text Summarization
+        - Multi-modal learning
+
+    
 
 - title: Technical Skills
   type: nested_list
