@@ -7,7 +7,7 @@ tags: project
 categories: Machine-learning
 giscus_comments: false
 related_posts: false
-featured: true
+featured: false
 # related_publications: einstein1950meaning, einstein1905movement
 ---
 
