@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PClass Representative Election using C Programming
+title: Class Representative Election using C Programming
 date: 2018-01-15 09:56:00-0400
 description: 
 tags: project
