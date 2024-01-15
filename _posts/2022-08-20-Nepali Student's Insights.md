@@ -9,6 +9,7 @@ giscus_comments: false
 related_posts: false
 toc:
   beginning: true
+  sidebar: left
 ---
 
 In my research journey to understand the significant challenges faced by primary school students in Nepal, I've outlined a step-by-step guide for conducting user research. Similarly, these are also the steps I myself followed. 
@@ -275,8 +276,8 @@ By following these steps, you can approach a school for conducting an interview 
 
 ---
 ---
-
-# Scripts for parents
+# Interview Scripts
+## Scripts for parents
   
 Introduction:
 
@@ -314,7 +315,7 @@ Thank you,
 ---
 
 
-# Scripts for school
+## Scripts for school
 
 Introduction:
 Hello, my name is [Your Name], and I am a researcher interested in understanding the experiences of primary school students in Nepal. I am reaching out to you today because I believe your school would be an excellent location for me to gather this information.
@@ -335,7 +336,7 @@ Thank you for your time and consideration. I look forward to the opportunity to 
 
 ---
 ---
-# Short and sweet script for a school
+## Short and sweet script for a school
 
 Introduction:
 
@@ -369,7 +370,9 @@ Thank you for your time and consideration.
 
 ---
 ---
-# Sample template for consent 
+# Template for consent
+
+## Sample template for consent 
 Here is a sample template for a consent paper that you can use for your purposes:
 
 Title: Consent for Participation in [Name of Research or Study]
@@ -417,7 +420,8 @@ Note: This is just a sample template and may need to be modified based on the sp
 
 ---
 ---
-# Example of a consent paper
+
+## Example of a consent paper
 
 Here is an example of a consent paper that could be used when conducting interviews with students in a school setting:
 
@@ -531,7 +535,7 @@ Do you feel like you have a good balance between your schoolwork, playtime, and 
 ---
 ---
 
-# Interview Questions at School:
+## Interview Questions at School:
 
 1. Can you tell me about a day you spend at school? Good experience or bad experience
     
@@ -581,7 +585,7 @@ Do you feel like you have a good balance between your schoolwork, playtime, and 
 ---
 ---
 
-# At Home:
+## At Home:
 
 1. What are the challenges you face when you do your homework?
     
@@ -630,7 +634,7 @@ Do you feel like you have a good balance between your schoolwork, playtime, and 
 ---
 ---
 
-# Categories
+# Question subdivisions:
 
 1. School environment: questions about the physical space, facilities, and resources available in school
     
