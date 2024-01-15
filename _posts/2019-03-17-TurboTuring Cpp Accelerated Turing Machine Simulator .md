@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TurboTuring C Accelerated Turing Machine Simulator 
+title: TurboTuring Cpp Accelerated Turing Machine Simulator 
 date: 2019-03-17 09:56:00-0400
 description: 
 tags: project
