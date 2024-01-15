@@ -17,24 +17,22 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+Computer Engineer 
 
-I am from Nepal, where I have completed my bachelor’s in computer engineering from Tribhuvan University, Institute of Engineering, Paschimanchal Campus.
+Hello, I’m Badal Tripathi, a Computer Engineering graduate from the Institute of Engineering, Pashchimanchal Campus, Tribhuvan University. Currently, I am working as an AI Engineer at TriCode Technology. In this role, I engage in diverse responsibilities such as data preprocessing, integration of machine learning models into IoT systems for predictive analytics, anomaly
+detection, decision-making, and also do some NLP projects. Prior to my current role, I was a fullstack developer. 
 <br/><br/> 
-## Working
-I am currently employed at TriCode Technology as an AI engineer. In this role, I engage in diverse responsibilities related to Machine Learning and Deep Learning. 
+I'm passionate about discovering creative ways to improve education. I've also done a research on challenges faced by primary school students in Nepal. [Here is the link to the article](/project/2022/Nepali-Student's-Insights). 
 <br/><br/> 
-## Education
-Bachelor's In Computer Engineering, 2017
+Right now, I'm looking for opportunities to study Machine Learning, specifically NLP in graduate schools. I'm curious and excited to contribute to these fields and eager to join graduate programs to learn more and be part of the ML/AI community.
+<br/><br/> 
 
-Tribhuvan University, Institute of Engineering, Paschimanchal Campus
-
-<br/> 
-## Research on Challenges faced by primary school students in Nepal
-In my research journey to understand the significant challenges faced by primary school students in Nepal, I've outlined a step-by-step guide for conducting user research. Similarly, these are also the steps I myself followed. 
-
-<br/> 
 ## Interests
-<li>Artificial Intelligence</li>
-<li>Natural Language Processing</li>
+<li>Continual learning</li>
+<li>Natural Language Generation</li>
+<li>Question-Answering </li>
+<li>Text Summarization</li>
+<li>Multi-modal learning</li>
+<li>Conversational AI</li>
 <br/><br/> 
 
