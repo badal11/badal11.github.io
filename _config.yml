@@ -264,7 +264,7 @@ jekyll-archives:
     category: '/blog/category/:name/'
 
 display_tags: [ 'project','Articles', 'code','NLP'] # these tags will be displayed on the front page of your blog
-display_categories: ['Deep_Learning','Machine_Learning','Course_Note','Web-App_and_Extension','class-projet'] # these categories will be displayed on the front page of your blog
+display_categories: ['class-project','Machine_Learning','Deep_Learning','Course_Note','Web-App_and_Extension'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
