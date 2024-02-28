@@ -4,11 +4,12 @@ github_users:
 
 github_repos:
   # - badal11/IELTS_TOEFL_Spoken_Grammer_Improver
+  - 
   - badal11/Intelligent-Slide-Generation-from-Lecture-Videos
-  # - badal11/Unsupervised-video-summarization-with-deep-reinforcement-learning
+  - badal11/Unsupervised-video-summarization-with-deep-reinforcement-learning
   - badal11/Playback-Speed-Adjustment-skip-silence-or-less-crucial-portions-of-videos
   - badal11/Pixel-to-Plate-Recipe-from-Food-Image
-  # - badal11/ImageFocus-AI-Depth-Driven-Graded-Blurring
+  - badal11/ImageFocus-AI-Depth-Driven-Graded-Blurring
   - badal11/Twitter-Sentiment-Analysis
   - badal11/Revisit-the-Words
   - badal11/Word-Selection-Extension

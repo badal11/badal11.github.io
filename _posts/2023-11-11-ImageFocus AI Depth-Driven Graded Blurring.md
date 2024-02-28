@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: post
 title: ImageFocus AI Depth-Driven Graded Blurring
 date: 2023-11-11 09:56:00-0400
@@ -16,4 +16,4 @@ Graded blurring of an image based on how far a point is from focus, achieved sol
 ## Depth Estimation
 I utilized a method based on the paper "Unsupervised Monocular Depth Estimation with Left-Right Consistency." Discover more about their groundbreaking paper [here](http://visual.cs.ucl.ac.uk/pubs/monoDepth/).
 The machine learning model is trained on a large set of stereo (left-right) images to generate a right image from a given left image. By learning internally about the depth of various points in the image, the model is then capable of generating a depth map for a simple image.
- -->
+
