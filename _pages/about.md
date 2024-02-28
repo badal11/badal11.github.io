@@ -27,12 +27,12 @@ I'm passionate about discovering creative ways to improve education. I've also d
 Right now, I'm looking for opportunities to study Machine Learning, specifically NLP in graduate schools. I'm curious and excited to contribute to these fields and eager to join graduate programs to learn more and be part of the ML/AI community.
 <br/><br/> 
 
-## Interests
+<!-- ## Interests
 <li>Continual learning</li>
 <li>Natural Language Generation</li>
 <li>Question-Answering </li>
 <li>Text Summarization</li>
 <li>Multi-modal learning</li>
 <li>Conversational AI</li>
-<br/><br/> 
+<br/><br/>  -->
 

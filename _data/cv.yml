@@ -1,111 +1,118 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Badal Tripathi
-    - name: Date of Birth
-      value: 22nd December 1999
-    - name: Languages
-      value: English, Nepali, Hindi
+# this was the  start line
 
-- title: Education
-  type: time_table
-  contents:
-    - title: Bachelors
-      institution: Institute of Engineering, Paschimanchal Campus
-      year: 2017 - 2022
-      description:
-        - Bachelor of Computer Engineering
-        - Pokhara, Nepal
-        - B.E. funded by Government of Nepal
-          • Ranked 261th in the engineering entrance exam, competing with 15,000+ candidates , received full scholarship for undergraduate study.
-    - title: +2 High School Science
-      institution: Motherland Secondary School
-      year: 2015 - 2017
-      description:
-        - Received Full Scholarship for High School in one of the top Schools of Nepal, ranking 2nd in the entrance examination.
-        - Consistantly ranked 1st during high school examinations. 
-- title: Experience
-  type: time_table
-  contents:
-    - title: AI Engineer
-      institution: TriCode Technology, Sanepa-2, Lalitpur
-      year: 2022 - 2023
-      description:
-        - Data preprocessing, integration of machine learning models into IoT systems for predictive analytics, anomaly detection, decision-making, and some NLP projects.
-        - I was also tasked to create a video speed controller that skips through silent parts. Used NLP algorithms in some projects to shorten video lectures, identify key moments of the video, and generate assisting elements such as summary, and PowerPoint presentations if applicable.
-        - Applied version control systems like Git to manage code repositories, facilitating collaborative software development
-        - Worked closely with databases (SQL) to design optimized schemas and queries, showcasing a strong grasp of data management principles
+# - title: General Information
+#   type: map
+#   contents:
+#     - name: Full Name
+#       value: Badal Tripathi
+#     - name: Date of Birth
+#       value: 22nd December 1999
+#     - name: Languages
+#       value: English, Nepali, Hindi
+
+# - title: Education
+#   type: time_table
+#   contents:
+#     - title: Bachelors
+#       institution: Institute of Engineering, Paschimanchal Campus
+#       year: 2017 - 2022
+#       description:
+#         - Bachelor of Computer Engineering
+#         - Pokhara, Nepal
+#         - B.E. funded by Government of Nepal
+#           • Ranked 261th in the engineering entrance exam, competing with 15,000+ candidates , received full scholarship for undergraduate study.
+#     - title: +2 High School Science
+#       institution: Motherland Secondary School
+#       year: 2015 - 2017
+#       description:
+#         - Received Full Scholarship for High School in one of the top Schools of Nepal, ranking 2nd in the entrance examination.
+#         - Consistantly ranked 1st during high school examinations. 
+# - title: Experience
+#   type: time_table
+#   contents:
+#     - title: AI Engineer
+#       institution: TriCode Technology, Sanepa-2, Lalitpur
+#       year: 2022 - 2023
+#       description:
+#         - Data preprocessing, integration of machine learning models into IoT systems for predictive analytics, anomaly detection, decision-making, and some NLP projects.
+#         - I was also tasked to create a video speed controller that skips through silent parts. Used NLP algorithms in some projects to shorten video lectures, identify key moments of the video, and generate assisting elements such as summary, and PowerPoint presentations if applicable.
+#         - Applied version control systems like Git to manage code repositories, facilitating collaborative software development
+#         - Worked closely with databases (SQL) to design optimized schemas and queries, showcasing a strong grasp of data management principles
         
-    - title: Challenges for Nepalese primary school student
-      institution: Research Experience 
-      year: Aug. 2022 – Dec 2022
-      description:
-        - Conducted user research to understand the biggest pain points for primary school students in Nepal.
-        - We prepared a list of questions and did interviews with students, teachers, and their parents.
-        - We found that parents’ education level significantly affects grades 1–5 students, while parental participation is crucial for grades 6 – 10
+#     - title: Challenges for Nepalese primary school student
+#       institution: Research Experience 
+#       year: Aug. 2022 – Dec 2022
+#       description:
+#         - Conducted user research to understand the biggest pain points for primary school students in Nepal.
+#         - We prepared a list of questions and did interviews with students, teachers, and their parents.
+#         - We found that parents’ education level significantly affects grades 1–5 students, while parental participation is crucial for grades 6 – 10
 
-    - title: High School Teacher
-      institution: Motherland Secondary School, Pokhara
-      year: 2021 - 2022
-      description:
-        - Taught Mathematics and Computer Science to Grade 11 and 12 students.
+#     - title: High School Teacher
+#       institution: Motherland Secondary School, Pokhara
+#       year: 2021 - 2022
+#       description:
+#         - Taught Mathematics and Computer Science to Grade 11 and 12 students.
 
-    - title: Undergraduate Teaching Assistant
-      institution: Institute of Engineering, Paschimanchal Campus
-      year: Oct 2019 – March 2020
-      description:
+#     - title: Undergraduate Teaching Assistant
+#       institution: Institute of Engineering, Paschimanchal Campus
+#       year: Oct 2019 – March 2020
+#       description:
 
-    - title: Undergraduate Teaching Assistant
-      institution: Institute of Engineering, Paschimanchal Campus
-      year: May 2019 – July 2019
+#     - title: Undergraduate Teaching Assistant
+#       institution: Institute of Engineering, Paschimanchal Campus
+#       year: May 2019 – July 2019
 
-# - title: Projects
-#   type: time_table
+# # - title: Projects
+# #   type: time_table
+# #   contents:
+# #     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+# #       year: 2015-now
+# #       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+# # - title: Participation and Achievements
+# #   type: time_table
+# #   contents:
+# #     - year: 1921
+# #       items: 
+# #         - Nobel Prize in Physics 
+# #         - Matteucci Medal
+# #     - year: 2029
+# #       items: 
+# #         - Max Planck Medal
+
+# - title: Academic Interests
+#   type: nested_list
 #   contents:
-#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-#       year: 2015-now
-#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-# - title: Participation and Achievements
-#   type: time_table
-#   contents:
-#     - year: 1921
+#     - title: Natural Language Processing.
 #       items: 
-#         - Nobel Prize in Physics 
-#         - Matteucci Medal
-#     - year: 2029
-#       items: 
-#         - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Natural Language Processing.
-      items: 
-        - Continual learning
-        - Natural Language Generation
-        - Question-Answering
-        - Text Summarization
-        - Multi-modal learning
+#         - Continual learning
+#         - Natural Language Generation
+#         - Question-Answering
+#         - Text Summarization
+#         - Multi-modal learning
 
     
 
-- title: Technical Skills
-  type: nested_list
-  contents:
-    - title: Languages
-      items: 
-        - Python, C/C++, SQL (Postgres), JavaScript, PHP, HTML/CSS
-    - title: ML Frameworks
-      items:
-        - PyTorch, Tensorflow, DeepSpeed, Megatron-LM, Ray, Spacy, HuggingFace, Autodist, AdaptDL.
-    - title: BigData+Database
-      items:    
-        - sklearn, Scipy, NumPy, Pandas, Jupyter, AWS EC2, Kubernetes, Docker, MongoDB
-    - title: Web Frameworks
-      items: 
-        - Laravel, VueJS, React
+# - title: Technical Skills
+#   type: nested_list
+#   contents:
+#     - title: Languages
+#       items: 
+#         - Python, C/C++, SQL (Postgres), JavaScript, PHP, HTML/CSS
+#     - title: ML Frameworks
+#       items:
+#         - PyTorch, Tensorflow, DeepSpeed, Megatron-LM, Ray, Spacy, HuggingFace, Autodist, AdaptDL.
+#     - title: BigData+Database
+#       items:    
+#         - sklearn, Scipy, NumPy, Pandas, Jupyter, AWS EC2, Kubernetes, Docker, MongoDB
+#     - title: Web Frameworks
+#       items: 
+#         - Laravel, VueJS, React
+
+# this was the  end line
+
+
+
 
 # - title: Technical Skills
 #   contents:
