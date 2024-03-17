@@ -30,7 +30,7 @@ Right now, I'm looking for opportunities to study Machine Learning, specifically
 ## Interests
 - Web Development
   - Laravel
-    - [a sample project in Laravel and VueJs](/https://youtu.be/JP1Se0RW0xU) 
+    - [a sample project in Laravel and VueJs](https://youtu.be/JP1Se0RW0xU) 
   - VueJs
   
 - Machine Learning and NLP
