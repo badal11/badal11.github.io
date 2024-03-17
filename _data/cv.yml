@@ -28,7 +28,7 @@
 - title: Experience
   type: time_table
   contents:
-    - title: AI Engineer
+    - title: Laravel developer and AI Engineer
       institution: TriCode Technology, Sanepa-2, Lalitpur
       year: 2022 - 2023
       description:
@@ -101,13 +101,13 @@
   contents:
     - title: Languages
       items: 
-        - Python, C/C++, SQL (Postgres), JavaScript, PHP, HTML/CSS
+        - Python, C/C++, SQL, JavaScript, PHP, HTML/CSS
     - title: ML Frameworks
       items:
-        - PyTorch, Tensorflow, DeepSpeed, Megatron-LM, Ray, Spacy, HuggingFace, Autodist, AdaptDL.
+        - PyTorch, Tensorflow
     - title: BigData+Database
       items:    
-        - sklearn, Scipy, NumPy, Pandas, Jupyter, AWS EC2, Kubernetes, Docker, MongoDB
+        - sklearn, Scipy, NumPy, Pandas, Jupyter, AWS EC2, Docker
     - title: Web Frameworks
       items: 
         - Laravel, VueJS
