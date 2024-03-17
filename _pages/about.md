@@ -28,11 +28,15 @@ Right now, I'm looking for opportunities to study Machine Learning, specifically
 <br/><br/>  -->
 
 ## Interests
-<li>Continual learning</li>
-<li>Natural Language Generation</li>
-<li>Question-Answering </li>
-<li>Text Summarization</li>
-<li>Multi-modal learning</li>
-<li>Conversational AI</li>
-<br/><br/> 
+- Web Development
+  - Laravel
+  - VueJs
+  
+- Machine Learning and NLP
+  - Continual learning
+  - Natural Language Generation
+  - Question-Answering
+  - Text Summarization
+  - Multi-modal learning
+  - Conversational AI
 

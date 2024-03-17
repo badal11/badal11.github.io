@@ -78,9 +78,14 @@
 #       items: 
 #         - Max Planck Medal
 
-- title: Academic Interests
+# - title: Academic Interests
+- title: Interests
   type: nested_list
   contents:
+    - title: Web Development
+      items: 
+        - Laravel
+        - VueJs
     - title: Natural Language Processing.
       items: 
         - Continual learning
@@ -105,7 +110,7 @@
         - sklearn, Scipy, NumPy, Pandas, Jupyter, AWS EC2, Kubernetes, Docker, MongoDB
     - title: Web Frameworks
       items: 
-        - Laravel, VueJS, React
+        - Laravel, VueJS
 
 # - title: Technical Skills
 #   contents:
